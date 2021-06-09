@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dikdortgenalan/1.0.0": {
+        "runtime": {
+          "dikdortgenalan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dikdortgenalan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\bin\Debug\netcoreapp3.1\dikdortgenalan.exe
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\bin\Debug\netcoreapp3.1\dikdortgenalan.deps.json
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\bin\Debug\netcoreapp3.1\dikdortgenalan.runtimeconfig.json
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\bin\Debug\netcoreapp3.1\dikdortgenalan.runtimeconfig.dev.json
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\bin\Debug\netcoreapp3.1\dikdortgenalan.dll
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\bin\Debug\netcoreapp3.1\dikdortgenalan.pdb
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\obj\Debug\netcoreapp3.1\dikdortgenalan.csprojAssemblyReference.cache
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\obj\Debug\netcoreapp3.1\dikdortgenalan.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\obj\Debug\netcoreapp3.1\dikdortgenalan.AssemblyInfoInputs.cache
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\obj\Debug\netcoreapp3.1\dikdortgenalan.AssemblyInfo.cs
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\obj\Debug\netcoreapp3.1\dikdortgenalan.dll
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\obj\Debug\netcoreapp3.1\dikdortgenalan.pdb
+C:\Users\Gizem\source\repos\dikdortgenalan\dikdortgenalan\obj\Debug\netcoreapp3.1\dikdortgenalan.genruntimeconfig.cache
